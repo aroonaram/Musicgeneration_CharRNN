@@ -1,0 +1,17 @@
+[]
+saXm#vny's EE7"ecB|"Am"c3 "D7"d2c|"G"B2B B^AB|
+"G"D2G GFG|"D"A3 f2e|"G"dcB "Am"AGA|"D7"B3 A3|"G"B2d G^DB|
+dBG DGB|"D"AFD FDE|"D"DEF A2G|"D"AFA "G"Bcd|"D"A3 -AFA|
+"G"BGB "D"AFA|"G"BGB "D"AFD|"G"GFG BAG|"D"F3 -DFA|
+"G"B3 BAG|"D"FEF AFD|"G"d^cd "D"fga|"Em"gbg "D7"aga|
+"G"bgb "D"aga|"G"bgg dga|"G"bgg "D7"aga|"G"bgg g2:|
+
+
+X: 41
+T:Cavennat's Fancy
+% Nottingham Music Database
+S:Pauline Wilson, via Phil Rowe
+M:6/8
+K:G
+"G"g2d e2B|"D7"d2G AGA|"G"B3 d3-|"D7"d3 fed|"G"c3 "D7"c3|"G"B3 G3|"D7"A3 ABc|
+"G"d3 "D7"d3|"G"ded

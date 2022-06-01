@@ -1,0 +1,20 @@
+[]
+%%IImy Rogglam
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+d|"G"g2d BdB|"G"d2d B2c|"G"d2d B3|"G"d2e d3|"G"B2B Bcc|"G"d2B "G7"c2d|
+"C"ede gfg|"G"agd "G"dBG|"Em"GAG "D7"cBA|"G"GAG G2:|
+
+
+X: 190
+T:Mzaure's Jig
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:G
+G|"G"G2G Bcd|"C"e2e e2e|"G"d2d d2B|"Am"Adc ABc|"D7"dcB A2G|
+"G"B2B B^cd|"G"B2d "D7"e2d|"G"B2d "D7"d2A|"G"B2B BAG|"G"B2B B2d|
+"G"d2B G2B|"Em"e2d "Am"c2B|"D"A3 F2G|"D7"A3 -A2D|"G"G2G B2d|"C"c2c "G7"B2c|
+"D7"d^cd C^cd||"G"gdB G2B|"C

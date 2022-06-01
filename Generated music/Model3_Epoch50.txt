@@ -1,0 +1,23 @@
+[]
+6:\
+"D/f+"a2f "G"bag|"D/f+"aba "G"g2d|"D"fed "A"cBA|
+"D"dfa agf|"G"bag "D"fga|"Em"bdd "A7/=ag|"D"fdd "G"d2:|
+
+
+X: 294
+T:Naun Jig
+% Nottingham Music Database
+Y:AABBCC
+S:Kevin Briggs, via EF
+M:6/8
+K:D
+P:A
+|:F/2G/2|"D"ABA FDF|"D"d3 def|"G"edB "D"def|"Em"gfe "A7"eag|
+"D"fdd "Ad"dAc|"D/f+"A2A "G"GAB|"D7"AGF "G"G2:|
+P:B
+|:d|"G"d^cd e2d|"G"B2G GAB|"Am"ABA G2B|"D7"AGF "G"G2:|
+P:B
+d|"D7"ded cBA|"G"B^AB (G2B|"G"DGA "D7"dcB|"G7"GAB "C"e2e|"G"dBG "D7"AB=c|"G"BAG "D7"G3:|
+"G"dBG Bcd|"G"ded BdB|"D7"AGF "G"G2:|
+P:B
+|:G/2A

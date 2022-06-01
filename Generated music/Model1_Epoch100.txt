@@ -1,0 +1,15 @@
+[]
+4
+|:K:Dm
+Of|"C"e2c "Cd"_e2c|"C"e2d "E7"e2^c|"Dm"d3 -d2d|
+"G"g2d dBd|"G"g3 "D7"d2c|"G"BAG DGG|"G"B3 GAB|
+"C"cde "G7"Bcd|"C"e2c edc|"G"d3 "C"gec|"G"d2d ded|"D7"cBA "G"G2|\
+"G"g2g "A7"edc|"D"d3 -d2:|
+P:B
+d/2e/2|"D"fed ded|"G"BdB dBG|"C"ABc gfe|"D"d^cd fad|
+"G"bga "D"fga|"G"gag "D"agf|"Am"edc "E7"dcB|"Am"A3 "D7"A2d|\
+"Em"B2B "Am"ABc|"Bm"dBc "E7"BAB|"Am"cAc "A7"B2A|\
+"D"fed "A"cdA|
+"D"d2d fga|"G"gfe "G"fga|"Em"bge "Bm"fgf|"Em"e3 B2e|
+"Em"ded "D"cAF|"G"GBA "A7"EFG|"D"FAd fdd|
+"Em"edB "A7"cAG|"D"FGF AGF|"D"A3 "G"A

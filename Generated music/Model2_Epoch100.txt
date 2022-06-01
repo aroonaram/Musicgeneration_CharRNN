@@ -1,0 +1,23 @@
+[]
+d ue
+Y:Sip 1984, via Phil Rowe
+M:6/8
+K:A
+E|"A"A2A "E"GAB|"A"A2c c2e|"Bm"f2B E2c|B2c -d2B|"A"c2e EAc|
+"D"d2d dcd|"A"e2A A2e|"D"fga agf|"A"ecA Ace|
+"A7"Ace f2e|"D"fgf fed|"A"cAA A2e|"D"fgf fed|"A"efe c2A|
+"D"fga afd|"A"Aea agf|"A"ecA EAc|"E7"dBG "A"A2:|
+
+
+X: 221
+T:Oandy Jig
+% Nottingham Music Database
+S:Kevin Briggs, via EF
+Y:AB
+M:6/8
+K:D
+P:A
+f/2g/2|"D"aba "A7/e"faf|"D/f+"dfd "G"dBG|"D"FAA "G"GAB|
+"A"c3 cAA|"D"AdA fed|"A"c2c cBA|"G"Bcd "A"ecA|
+"D"dcd "A7"edc|"D"ded dAF|"Em"GBB "D"AFA|
+"G"Bcd "D"Acf|"G"edc "D"
