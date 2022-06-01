@@ -1,0 +1,23 @@
+WARNING:tensorflow:Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+[]
+y Noten
+% Notthanger Masicquade
+% Nottingham Music Database
+S:Trad, arr Phil Rowe
+M:6/8
+K:D
+A|"D"DAA AGF|"D"FEF "G"GAB|"A7"ABc "D"dcd|"G"B/AGA "A7"ABc|"D"d3 d2|
+P:B
+F/2E/2|"A"A,A,A, CDE|"D"A,2D B,2D|"G"GBd "D"AFD|"Em"ECE E2:|
+
+
+X: 6
+T:Bugir|s Faveln
+% Nottingham Music Database
+S:Chris Dewhurst 1989, via Phil Rowe
+M:6/8
+K:G
+d|"G"d2d d^cd|edc BAG|"D"A2A A3|"D"f2e f2f|"A7"e2^c A2A|"A7"e2e e2f|e
+"D"A3 -d2c|"A7"B2A Ace|"D"f2d fed|"A7"b2a a2g|
+"D"a2f d3|"G"b2a g2f|"A"e2d cde|"Bm"B2d dcB|
+"A"c2e "E7"Bcd|"A"e3 e3|"
